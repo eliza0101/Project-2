@@ -41,10 +41,10 @@ We will be using the datasets from: https://www.kaggle.com/competitions/ieee-fra
 * ROC Curve
 
 ## Model Optimization and Reporting (Will)
-* Hyperparameter Tuning
-* Best Parameters and Score
-* Line Plot of ROC AUC Scores
-* Summary Chart
+* Hyperparameter Tuning (Tunji and Eliza)
+* Best Parameters and Score (Tunji and Eliza)
+* Line Plot of ROC AUC Scores (Tunji and Eliza)
+* Summary Chart (Tunji and Eliza)
 
 ## Notes
 The datafiles.zip needs to be unzipped before running the cleaning notebook.

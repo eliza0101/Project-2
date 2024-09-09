@@ -31,7 +31,7 @@ We will be using the datasets from: https://www.kaggle.com/competitions/ieee-fra
 * Numerical Data Analysis
 * Visualize class distribution
 * Categorical Data Analysis
-* Correlation Analysis
+* Correlation Analysis 
 
 ## Model Development (Tunji)
 * Train Logistic Regression

@@ -1,9 +1,11 @@
 # Project-2 Fraud Detection System
 #### Link to repo https://github.com/eliza0101/Project-2.git  
-#### Link to presentation:
-Develop a ML model to solve, analyze, or visualize a problem
+#### Link to presentation https://www.canva.com/design/DAGPMmNKy24/DOzfNhLtdTywsBonFecWRA/edit?utm_content=DAGPMmNKy24&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
 
 ## Overview
+Create a POC model to detect transaction fraud. 
+
 
 ## Dependencies
 * Pandas
@@ -31,7 +33,7 @@ We will be using the datasets from: https://www.kaggle.com/competitions/ieee-fra
 * Numerical Data Analysis
 * Visualize class distribution
 * Categorical Data Analysis
-* Correlation Analysis
+* Correlation Analysis 
 
 ## Model Development (Tunji)
 * Train Logistic Regression

@@ -21,28 +21,30 @@ We will be using the datasets from: https://www.kaggle.com/competitions/ieee-fra
 2. tran_transaction.csv
 
 ## Data Preparation and Cleaning (Eliza) 
-#### File location: project_2_data cleaning.ipynb
+#### File location: project_2_data cleaning.ipynb 
 * Merge both datasets into one dataframe
 * Clean data and remove colomns with more than 10% missing values
 * Handle non-numeric data
 * Create new csv for merged and cleaned files
 
 ## Exploratory Data Analysis (Eliza) 
-#### File location: project_2_main.ipynb
+#### File location: project_2_main.ipynb / project_2_main.py
 * Missing Values Analysis
 * Numerical Data Analysis
 * Visualize class distribution
 * Categorical Data Analysis
 * Correlation Analysis 
 
-## Model Development (Tunji)
+## Model Development (Tunji) 
+#### File location: project_2_main.ipynb / project_2_main.py
 * Train Logistic Regression
 * Train Random Forest Classifier
 * Top Features Selection
 * Confusion Matrix
 * ROC Curve
 
-## Model Optimization and Reporting (Will)
+## Model Optimization and Reporting (Will) 
+#### File location: project_2_main.ipynb / project_2_main.py
 * Hyperparameter Tuning (Tunji and Eliza)
 * Best Parameters and Score (Tunji and Eliza)
 * Line Plot of ROC AUC Scores (Tunji and Eliza)
